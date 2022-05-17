@@ -1,0 +1,15 @@
+{
+  "name": "hirowatari/wpbi3",
+  "type": "project",
+  "license": "MS_RSL",
+  "minimum-stability": "stable",
+  "require": {
+    "danielstjules/stringy": "1.10.*",
+    "illuminate/database": "5.1.*",
+    "illuminate/pagination": "5.1.*",
+    "league/plates": "^3.3",
+    "robmorgan/phinx": "0.9.*",
+    "slim/flash": "^0.4.0",
+    "vlucas/valitron": "^1.4"
+  }
+}

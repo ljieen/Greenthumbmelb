@@ -1,0 +1,4252 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Poll Maker\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2018-07-13 11:50+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n_noop:1,2;_x\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"POT-Creation-Date: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-poll-maker-ays-admin.php:211
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1138
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1178
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5597
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5619
+msgid "Add"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:212
+msgid "This property aviable only in pro version"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:213
+msgid "Sorry minimum count of answers should be 2"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:214
+msgid "Copied!"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:215
+#: ../admin/partials/poll-maker-ays-polls-actions.php:687
+msgid "Click for copy."
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:219
+msgid "Clear"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:220
+msgid "Clear color"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:221
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3479
+msgid "Default"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:222
+msgid "Select default color"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:223
+msgid "Select Color"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:224
+msgid "Color value"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:298
+#: ../admin/class-poll-maker-ays-admin.php:299
+#: ../admin/class-poll-maker-ays-admin.php:490
+#: ../includes/lists/class-poll-maker-categories-list-table.php:292
+#: ../includes/lists/class-poll-maker-polls-list-table.php:14
+msgid "Polls"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:313
+#: ../admin/class-poll-maker-ays-admin.php:314
+#: ../admin/class-poll-maker-ays-admin.php:504
+#: ../admin/partials/poll-maker-ays-polls-actions.php:760
+#: ../includes/lists/class-poll-maker-categories-list-table.php:14
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1381
+msgid "Categories"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:337
+#: ../admin/class-poll-maker-ays-admin.php:338
+#: ../admin/class-poll-maker-ays-admin.php:516
+#: ../admin/partials/results/poll-maker-ays-results-display.php:70
+#: ../includes/lists/class-poll-maker-results-list-table.php:14
+msgid "Results"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:351
+#: ../admin/class-poll-maker-ays-admin.php:352
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:108
+msgid "Custom Fields"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:362
+#: ../admin/class-poll-maker-ays-admin.php:363
+#: ../admin/partials/settings/poll-maker-settings.php:140
+msgid "General Settings"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:375
+#: ../admin/class-poll-maker-ays-admin.php:376
+msgid "How to use"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:387
+#: ../admin/class-poll-maker-ays-admin.php:388
+msgid "PRO features"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:398
+#: ../admin/class-poll-maker-ays-admin.php:399
+msgid "Our products"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:418
+#: ../admin/partials/poll-maker-ays-polls-actions.php:709
+#: ../admin/partials/settings/poll-maker-settings.php:103
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:419
+msgid "Demo"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:420
+msgid "Buy Now"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:716
+msgid "If you love our plugin, please do big favor and rate us on"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:840
+msgid "Limited Time <span style='color:red;'>50%</span> SALE on 3 Powerful Plugins (Quiz, Survey, Poll)!"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:844
+msgid "Mega bundle offer for you! It consists of 3 different powerful plugins, each one allowing you to make your WordPress experience the best that could be."
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:846
+msgid "Hurry up! Ends on October 15. <a href='https://ays-pro.com/mega-bundle' target='_blank'>Check it out!</a>"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:853
+#: ../admin/class-poll-maker-ays-admin.php:883
+#: ../admin/class-poll-maker-ays-admin.php:940
+#: ../admin/class-poll-maker-ays-admin.php:1006
+#: ../admin/class-poll-maker-ays-admin.php:1075
+msgid "Buy Now !"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:870
+msgid "Limited Time <span style='color:red;'>50%</span> SALE on 13 Powerful Plugins!"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:874
+msgid "Business bundle offer for you! It consists of 13 different powerful plugins, each one allowing you to make your WordPress experience the best that could be."
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:876
+msgid "Hurry up! Ends on October 15. <a href='https://ays-pro.com/business-bundle' target='_blank'>Check it out!</a>"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:899
+msgid "Limited Time <span style='color:#E85011;'>55%</span> SALE on <br><a href='https://bit.ly/3keKTm9' class='ays-poll-sale-banner-link-for-text' target='_blank'><span style='color:#E85011;'>Mega Bundle</span></a> (Quiz + Survey + Poll)!"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:905
+msgid "Hurry up! Ends on November 15. <a href='https://bit.ly/3keKTm9' target='_blank'>Check it out!</a>"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:960
+msgid "Limited Time <span class='ays-poll-dicount-wrap-color'>60%</span> SALE on <br><span><a href='https://bit.ly/3Hyr8QQ' target='_blank' class='ays-poll-dicount-wrap-color ays-poll-dicount-wrap-text-decoration' style='display:block;'>Black Friday Great Bundle</a></span> (Quiz + Survey + Poll + Copy + Popup)!"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:966
+msgid "Hurry up! Ends on November 26. <a href='https://bit.ly/3Hyr8QQ' target='_blank'>Check it out!</a>"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:1010
+msgid "link"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:1032
+msgid "The BIGGEST <span class='ays-poll-dicount-wrap-color' style='color:#000;'>50%</span> SALE on <br><span><a href='https://ays-pro.com/mega-bundle' target='_blank' class='ays-poll-dicount-wrap-color ays-poll-dicount-wrap-text-decoration' style='display:block;color:#000'>Christmas Bundle</a></span> Quiz+Survey+Poll)!"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:1038
+msgid "Hurry up! Ending on. <a href='https://ays-pro.com/mega-bundle' target='_blank' style='color:#000;'>Check it out!</a>"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:1090
+msgid "General Information:"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:1121
+msgid "For more information:"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:1123
+msgid "Youtube video tutorials"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:1126
+msgid "Documentation"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:1129
+msgid "Poll Maker plugin pro version"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:1132
+msgid "Poll Maker plugin demo"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:1136
+msgid "Poll Maker Information"
+msgstr ""
+
+#: ../admin/class-poll-maker-ays-admin.php:1137
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:21
+msgid "Add new category"
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:25
+msgid "Edit category"
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:63
+#: ../admin/partials/poll-maker-ays-polls-actions.php:743
+#: ../includes/lists/class-poll-maker-categories-list-table.php:289
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1377
+msgid "Title"
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:67
+msgid "Write the name of the category."
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:83
+#: ../includes/lists/class-poll-maker-categories-list-table.php:290
+msgid "Description"
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:87
+msgid "Provide more information about the poll category."
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:106
+msgid "Allow to skip polls"
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:108
+msgid "If this option is enabled, the “Next” button will be available and the user can skip the poll and go forward."
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:121
+msgid "Next button text"
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:122
+msgid "Write your preferred text for the “Next” button."
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:136
+msgid "Previous button text"
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:138
+msgid "Write your preferred text for the “Previous” button."
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:153
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3623
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3755
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3842
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3911
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4017
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5010
+#: ../admin/partials/settings/poll-maker-settings.php:1060
+msgid "Message"
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:154
+msgid "The message will appear when all polls with this category are expired or unpublished."
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:167
+msgid "Save Category"
+msgstr ""
+
+#: ../admin/partials/categories/actions/poll-maker-ays-categories-actions.php:169
+msgid "Apply Category"
+msgstr ""
+
+#: ../admin/partials/categories/poll-maker-ays-categories-display.php:5
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:21
+#: ../admin/partials/poll-maker-ays-admin-display.php:26
+msgid "Add New"
+msgstr ""
+
+#: ../admin/partials/categories/poll-maker-ays-categories-display.php:16
+#: ../admin/partials/poll-maker-ays-admin-display.php:36
+#: ../admin/partials/results/poll-maker-ays-results-display.php:130
+msgid "Search"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-featured-display.php:7
+msgid "Please feel free to use our other awesome plugins!"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-formfields_page-display.php:7
+#: ../admin/partials/poll-maker-ays-polls-actions.php:791
+#: ../admin/partials/poll-maker-ays-polls-actions.php:922
+#: ../admin/partials/poll-maker-ays-polls-actions.php:942
+#: ../admin/partials/poll-maker-ays-polls-actions.php:962
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1452
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2497
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2503
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2969
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3515
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3714
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3934
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3975
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4045
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4200
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4265
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4293
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4299
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4503
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4545
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4585
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4644
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4687
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4717
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4764
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4811
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5478
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5534
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5540
+#: ../admin/partials/results/poll-maker-ays-results-display.php:179
+#: ../admin/partials/results/poll-maker-ays-results-display.php:194
+#: ../admin/partials/results/poll-maker-ays-results-display.php:220
+#: ../admin/partials/settings/poll-maker-settings.php:404
+#: ../admin/partials/settings/poll-maker-settings.php:439
+#: ../admin/partials/settings/poll-maker-settings.php:521
+#: ../admin/partials/settings/poll-maker-settings.php:578
+#: ../admin/partials/settings/poll-maker-settings.php:622
+#: ../admin/partials/settings/poll-maker-settings.php:679
+#: ../admin/partials/settings/poll-maker-settings.php:770
+#: ../admin/partials/settings/poll-maker-settings.php:859
+#: ../admin/partials/settings/poll-maker-settings.php:896
+#: ../admin/partials/settings/poll-maker-settings.php:924
+#: ../admin/partials/settings/poll-maker-settings.php:968
+#: ../admin/partials/settings/poll-maker-settings.php:1009
+#: ../admin/partials/settings/poll-maker-settings.php:1348
+#: ../admin/partials/settings/poll-maker-settings.php:1382
+#: ../admin/partials/settings/poll-maker-settings.php:1496
+#: ../admin/partials/settings/poll-maker-settings.php:1502
+#: ../admin/partials/settings/poll-maker-settings.php:1626
+#: ../admin/partials/settings/poll-maker-settings.php:1660
+msgid "This feature is available only in "
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-formfields_page-display.php:8
+#: ../admin/partials/poll-maker-ays-polls-actions.php:792
+#: ../admin/partials/poll-maker-ays-polls-actions.php:923
+#: ../admin/partials/poll-maker-ays-polls-actions.php:943
+#: ../admin/partials/poll-maker-ays-polls-actions.php:963
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1453
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2498
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2504
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2970
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3516
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3715
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3935
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3976
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4046
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4201
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4266
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4294
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4300
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4504
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4546
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4586
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4645
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4688
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4718
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4765
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4812
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5479
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5535
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5541
+#: ../admin/partials/results/poll-maker-ays-results-display.php:180
+#: ../admin/partials/results/poll-maker-ays-results-display.php:195
+#: ../admin/partials/results/poll-maker-ays-results-display.php:221
+#: ../admin/partials/settings/poll-maker-settings.php:405
+#: ../admin/partials/settings/poll-maker-settings.php:440
+#: ../admin/partials/settings/poll-maker-settings.php:522
+#: ../admin/partials/settings/poll-maker-settings.php:579
+#: ../admin/partials/settings/poll-maker-settings.php:623
+#: ../admin/partials/settings/poll-maker-settings.php:680
+#: ../admin/partials/settings/poll-maker-settings.php:771
+#: ../admin/partials/settings/poll-maker-settings.php:860
+#: ../admin/partials/settings/poll-maker-settings.php:897
+#: ../admin/partials/settings/poll-maker-settings.php:925
+#: ../admin/partials/settings/poll-maker-settings.php:969
+#: ../admin/partials/settings/poll-maker-settings.php:1010
+#: ../admin/partials/settings/poll-maker-settings.php:1349
+#: ../admin/partials/settings/poll-maker-settings.php:1383
+#: ../admin/partials/settings/poll-maker-settings.php:1497
+#: ../admin/partials/settings/poll-maker-settings.php:1503
+#: ../admin/partials/settings/poll-maker-settings.php:1627
+#: ../admin/partials/settings/poll-maker-settings.php:1661
+msgid "PRO version!!!"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:16
+msgid "How to create a simple poll in 4 steps with the help of the Poll Maker plugin."
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:20
+msgid "Go to the"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:20
+#: ../includes/lists/class-poll-maker-polls-list-table.php:13
+#: ../includes/lists/class-poll-maker-results-list-table.php:484
+msgid "Poll"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:20
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3373
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3375
+msgid "page"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:21
+msgid "Create a new poll by clicking on the"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:21
+msgid "button"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:22
+msgid "Fill out the information."
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:23
+msgid "Copy the"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:23
+msgid "shortcode"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:23
+msgid "of the poll and paste it into any post․"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:27
+msgid "Congrats! You have already created your first poll."
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:32
+msgid "FAQs"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:36
+msgid "How do I change the design of the poll?"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:42
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:77
+msgid "To do that, please go to the"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:43
+#: ../admin/partials/poll-maker-ays-polls-actions.php:705
+msgid "Styles"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:44
+msgid "tab of the given poll. The plugin suggests you 7 awesome ready-to-use themes.  After choosing your preferred theme, you can customize it with 15+ style options to create attractive polls that people love to vote on, including"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:45
+msgid "main color, background image, background gradient, box-shadow, answers hover"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:46
+msgid "and etc. Moreover, you can use the"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:47
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2850
+#: ../admin/partials/settings/poll-maker-settings.php:1473
+#: ../admin/partials/settings/poll-maker-settings.php:1599
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:48
+msgid "written field to fully match your preferred design for your website and brand."
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:55
+msgid "Can I organize anonymous polls?"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:61
+msgid "Yes!"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:62
+msgid "Please go to the Settings tab of the given poll, and find the "
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:63
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2977
+msgid "Allow anonymity"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:64
+msgid "option there. Enable it, and it will allow participants to respond to your polls without ever revealing their identities, even if they are registered on your website. After enabling the option, the wp _user and User IP will not be stored in the database. A giant step toward democracy!"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:71
+msgid "How do I limit access to the poll?"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:78
+msgid "Limitation"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:79
+msgid "tab of the given poll. The plugin suggests two methods to prevent repeat voting from the same person. Those are"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:80
+msgid "Limit the user to rate only once by IP"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:81
+msgid "or"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:82
+msgid "Limit the user to rate only once by User ID."
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:83
+msgid "The other awesome functionality that the plugin suggests is"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:84
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3740
+msgid "Only for logged in users"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:85
+msgid "to enable access to the poll those, who have logged in. This option will allow you to precisely target your respondents, and not receive unnecessary votes from others, who have not logged in. Moreover, with the help of the"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:86
+msgid "Only selected user role"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:87
+msgid "option, you can select your preferred user role for example administrator, editor, subscriber, customer and etc."
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:94
+msgid "Can I know more about my respondents?"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:100
+msgid "You are in a right place!"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:101
+msgid "You just need to enable the"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:102
+msgid "Information Form"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:103
+msgid "from the"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:104
+#: ../admin/partials/poll-maker-ays-polls-actions.php:721
+msgid "User Data"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:105
+msgid "tab of the given poll, create your preferred"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:106
+msgid "custom fields"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:107
+msgid "in the"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:109
+msgid "page from the plugin left navbar, and come up with a clear picture of who your poll participants are, where they live, what their lifestyle and personality are like, etc."
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:116
+msgid "Can I get notified every time a vote is submitted?"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:122
+msgid "You can!"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:123
+msgid "To enable it, please go to the"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:124
+#: ../admin/partials/poll-maker-ays-polls-actions.php:254
+#: ../admin/partials/poll-maker-ays-polls-actions.php:725
+#: ../admin/partials/settings/poll-maker-settings.php:1453
+#: ../admin/partials/settings/poll-maker-settings.php:1575
+#: ../admin/partials/settings/poll-maker-settings.php:1748
+#: ../public/class-poll-maker-ays-public.php:3727
+#: ../public/class-poll-maker-ays-public.php:3739
+msgid "Email"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:125
+msgid "tab of the given poll. There you will find the"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:126
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4233
+msgid "Results notification by email"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:127
+msgid "option. After enabling the option, the admin(or your provided email) will receive an email notification about votes at each time."
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:134
+msgid "Will I lose the data after the upgrade?"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:140
+msgid "Nope!"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:141
+msgid "All your content and assigned settings of the plugin will remain unchanged even after switching to the Pro version. You don’t need to redo what you have already built with the free version. For the detailed instruction, please take a look at our"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:142
+msgid "upgrade guide"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:148
+msgid "For more advanced needs, please take a look at our"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:149
+msgid "Poll Maker plugin User Manual."
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:151
+msgid "If none of these guides help you, ask your question by contacting our"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:152
+msgid "support specialists."
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-how-to-use-display.php:153
+msgid "and get a reply within a day."
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:14
+msgid "Personal"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:20
+msgid "Business"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:26
+msgid "Developer"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:36
+msgid "Free"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:70
+#: ../admin/partials/features/poll-maker-pro-features-display.php:75
+#: ../admin/partials/features/poll-maker-pro-features-display.php:110
+#: ../admin/partials/features/poll-maker-pro-features-display.php:115
+msgid "Support for"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:78
+msgid "1 site"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:81
+msgid "5 sites"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:84
+msgid "Unlimited sites"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:90
+#: ../admin/partials/features/poll-maker-pro-features-display.php:95
+msgid "Upgrade for"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:98
+#: ../admin/partials/features/poll-maker-pro-features-display.php:118
+msgid "3 months"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:101
+#: ../admin/partials/features/poll-maker-pro-features-display.php:121
+msgid "12 months"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:104
+#: ../admin/partials/features/poll-maker-pro-features-display.php:124
+msgid "Lifetime"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:130
+#: ../admin/partials/features/poll-maker-pro-features-display.php:135
+msgid "Install on unlimited sites"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:144
+#: ../admin/partials/features/poll-maker-pro-features-display.php:149
+msgid "Reports in dashboard"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:158
+#: ../admin/partials/features/poll-maker-pro-features-display.php:163
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2900
+msgid "Allow multivote"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:172
+#: ../admin/partials/features/poll-maker-pro-features-display.php:177
+msgid "VS type of poll (versus)"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:186
+#: ../admin/partials/features/poll-maker-pro-features-display.php:191
+msgid "Ability to add custom option"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:200
+#: ../admin/partials/features/poll-maker-pro-features-display.php:205
+msgid "Extra 4 themes"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:214
+#: ../admin/partials/features/poll-maker-pro-features-display.php:219
+msgid "Results with charts"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:228
+#: ../admin/partials/features/poll-maker-pro-features-display.php:233
+msgid "Export results to CSV"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:242
+#: ../admin/partials/features/poll-maker-pro-features-display.php:247
+msgid "Custom Form Fields"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:256
+#: ../admin/partials/features/poll-maker-pro-features-display.php:261
+msgid "Vote reason option"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:270
+#: ../admin/partials/features/poll-maker-pro-features-display.php:275
+msgid "Text instead of results"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:284
+#: ../admin/partials/features/poll-maker-pro-features-display.php:289
+msgid "Import/Export polls"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:298
+#: ../admin/partials/features/poll-maker-pro-features-display.php:303
+msgid "Mailchimp integration"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:312
+#: ../admin/partials/features/poll-maker-pro-features-display.php:317
+msgid "Campaign Monitor integration"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:326
+#: ../admin/partials/features/poll-maker-pro-features-display.php:331
+msgid "Zapier integration"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:340
+#: ../admin/partials/features/poll-maker-pro-features-display.php:345
+msgid "ActiveCampaign integration"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:354
+#: ../admin/partials/features/poll-maker-pro-features-display.php:359
+msgid "Slack integration"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:368
+#: ../admin/partials/features/poll-maker-pro-features-display.php:373
+msgid "Anonymous poll"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:382
+#: ../admin/partials/features/poll-maker-pro-features-display.php:387
+msgid "Password protected poll"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:396
+#: ../admin/partials/features/poll-maker-pro-features-display.php:401
+msgid "Vote session"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:410
+#: ../admin/partials/features/poll-maker-pro-features-display.php:415
+msgid "Send mail to user"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:424
+#: ../admin/partials/features/poll-maker-pro-features-display.php:429
+msgid "Messages based on answers"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:438
+#: ../admin/partials/features/poll-maker-pro-features-display.php:443
+msgid "Display category shortcode"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:452
+#: ../admin/partials/features/poll-maker-pro-features-display.php:457
+msgid "User History shortcode"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:466
+#: ../admin/partials/features/poll-maker-pro-features-display.php:471
+msgid "Leaderboard"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:480
+#: ../admin/partials/features/poll-maker-pro-features-display.php:485
+msgid "Poll creation by user"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:494
+#: ../admin/partials/features/poll-maker-pro-features-display.php:499
+msgid "SendGrid integration"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:508
+#: ../admin/partials/features/poll-maker-pro-features-display.php:513
+msgid "GamiPress integration"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:522
+#: ../admin/partials/features/poll-maker-pro-features-display.php:527
+msgid "Mad Mimi integration"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:536
+#: ../admin/partials/features/poll-maker-pro-features-display.php:541
+msgid "ConvertKit integration"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:550
+#: ../admin/partials/features/poll-maker-pro-features-display.php:555
+msgid "GetResponse integration"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:564
+#: ../admin/partials/features/poll-maker-pro-features-display.php:569
+msgid "Google sheet integration"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:580
+msgid "Summary emails"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:591
+msgid "Copy protection"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:603
+msgid "Download"
+msgstr ""
+
+#: ../admin/partials/features/poll-maker-pro-features-display.php:606
+#: ../admin/partials/features/poll-maker-pro-features-display.php:608
+msgid "Buy now"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:6
+#: ../admin/partials/poll-maker-ays-polls-actions.php:7
+#: ../admin/partials/poll-maker-ays-polls-actions.php:8
+msgid "Add Image"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:54
+#: ../public/class-poll-maker-ays-public.php:2331
+msgid "Vote"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:55
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3264
+#: ../public/class-poll-maker-ays-public.php:768
+msgid "See Results"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:62
+msgid "Thanks for your answer!"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:72
+#: ../public/class-poll-maker-ays-public.php:190
+msgid "You have already voted"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:77
+msgid "You don't have permissions for passing the poll"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:79
+msgid "You must sign in for passing the poll"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:100
+msgid "The poll will be available soon!"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:101
+msgid "The poll has expired!"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:110
+#: ../public/class-poll-maker-ays-public.php:594
+msgid "Please fill out the form:"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:170
+msgid "Add new poll"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:183
+msgid "Edit poll"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:215
+#: ../admin/partials/poll-maker-ays-polls-actions.php:219
+#: ../admin/partials/poll-maker-ays-polls-actions.php:224
+msgid "Edit Image"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:250
+#: ../admin/partials/results/poll-maker-ays-results-display.php:203
+#: ../admin/partials/settings/poll-maker-settings.php:1735
+#: ../public/class-poll-maker-ays-public.php:3726
+#: ../public/class-poll-maker-ays-public.php:3738
+msgid "Name"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:258
+#: ../admin/partials/settings/poll-maker-settings.php:1761
+#: ../public/class-poll-maker-ays-public.php:3728
+#: ../public/class-poll-maker-ays-public.php:3740
+msgid "Phone"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:294
+msgid "There are no lists"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:668
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5666
+msgid "Save and close"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:669
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5667
+msgid "Save"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:682
+msgid "Shortcode text for editor"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:686
+msgid "To insert the Poll into a page, post or text widget, copy shortcode"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:688
+msgid "and paste it at the desired place in the editor."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:701
+#: ../admin/partials/settings/poll-maker-settings.php:117
+msgid "General"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:713
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4846
+msgid "Results Settings"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:717
+msgid "Limitations"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:729
+#: ../admin/partials/settings/poll-maker-settings.php:121
+#: ../admin/partials/settings/poll-maker-settings.php:464
+msgid "Integrations"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:737
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3373
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3375
+msgid "General options"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:746
+msgid "Define a name for your poll which will be shown as a headline inside the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:763
+msgid "Choose the category your poll belongs to. For creating a category, go to the `Categories` page (find it on the Poll Maker left navbar)."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:771
+msgid "Select category"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:782
+msgid "Create category"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:799
+msgid "Create post for poll"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:800
+msgid "A new WordPress post will be created automatically and will include the shortcode of this poll. This function will be executed only once. You can find this post on Posts page, which will have the same title as the poll. The image of the poll will be the featured image of the post."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:812
+msgid "Choose Post Categories"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:813
+msgid "Choose the category of the new post. For creating a category, go to the Categories page of the Posts."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:833
+msgid "Question"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:833
+msgid "Write the main content/question, which will be shown inside the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:837
+msgid "Add an image to the question."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:869
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1378
+msgid "Type"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:870
+msgid "Choose your preferred type of poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:871
+#: ../admin/partials/poll-maker-ays-polls-actions.php:883
+#: ../admin/partials/poll-maker-ays-polls-actions.php:885
+msgid "Choosing"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:871
+msgid " - you write the possible answers in the field of “Answers” which are 2 by default."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:872
+#: ../admin/partials/poll-maker-ays-polls-actions.php:892
+#: ../admin/partials/poll-maker-ays-polls-actions.php:894
+msgid "Rating"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:872
+msgid "- you need to choose the appearance(Stars/Emoji) and the scale of assessment(3-5) and let the users rate."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:873
+#: ../admin/partials/poll-maker-ays-polls-actions.php:901
+#: ../admin/partials/poll-maker-ays-polls-actions.php:903
+#: ../admin/partials/poll-maker-ays-polls-actions.php:912
+msgid "Voting"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:873
+msgid "- you need to choose the appearance(Hand/Emoji) and let the users choose between those two opposing variants."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:874
+#: ../admin/partials/poll-maker-ays-polls-actions.php:949
+#: ../admin/partials/poll-maker-ays-polls-actions.php:951
+msgid "Versus"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:874
+msgid "- you need to choose two different answers and let the user compare and choose one of them.  Moreover, you can select the versus direction, icon and position."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:910
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5581
+msgid "Text"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:929
+#: ../admin/partials/poll-maker-ays-polls-actions.php:931
+msgid "Dropdown"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:952
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1463
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1471
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1479
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1487
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5013
+msgid "It is PRO version feature"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:969
+#: ../admin/partials/poll-maker-ays-polls-actions.php:970
+msgid "Range"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:981
+msgid "If you change the type, the number of counted answers will be annulled."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:991
+msgid "Allow custom answer"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:994
+msgid "Allow users to add their custom answer."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1007
+msgid "Require admin approval"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1010
+msgid "If the option is enabled, the answers added by users will require admin approval to be shown up inside the poll (public)."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1022
+msgid "Select all"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1039
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1205
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1214
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1256
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5580
+msgid "Answers"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1041
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1207
+msgid "Add answer"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1051
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1070
+msgid "Redirect"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1052
+msgid "Enable redirection to the custom URL(s) after the user votes the poll. Assign different URLs to each answer separately."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1068
+msgid "Ordering"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1069
+#: ../includes/lists/class-poll-maker-results-list-table.php:490
+msgid "Answer"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1071
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5582
+msgid "Image"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1072
+#: ../includes/lists/class-poll-maker-categories-list-table.php:256
+#: ../includes/lists/class-poll-maker-categories-list-table.php:320
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1275
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1413
+msgid "Delete"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1168
+msgid "Answer "
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1214
+msgid "Select the appearance of the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1221
+msgid "Hand"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1224
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1266
+msgid "Emoji"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1256
+msgid "Select the appearance and the scale of assessment of the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1263
+msgid "Stars"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1280
+msgid "Choose text type"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1282
+msgid "Choose the type of the question:"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1283
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1293
+msgid "Short text"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1283
+msgid " - a question that requires to be answered by writing short text."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1284
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1298
+msgid "Paragraph"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1284
+msgid " - a question that requires to be answered by writing text."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1308
+msgid "Placeholder"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1310
+msgid "Write your preferred word to show in the placeholder field."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1323
+#: ../admin/partials/settings/poll-maker-settings.php:1423
+#: ../admin/partials/settings/poll-maker-settings.php:1542
+msgid "Width"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1325
+msgid "Specify the width of the text field."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1344
+msgid "Maximum length of a text field"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1345
+msgid "Restrict the number of characters/words to be inserted in the text field by the user."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1357
+msgid "Limit by"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1358
+msgid "Choose your preferred type of limitation."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1365
+msgid "Characters"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1366
+msgid "Words"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1374
+msgid "Length"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1375
+msgid "Indicate the length of the characters/words."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1388
+msgid "Show word/character counter"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1389
+msgid "Tick the checkbox and the live box will appear under the text field. It will indicate the current state of word/character usage."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1406
+msgid "Styling options"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1412
+msgid "Theme"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1414
+msgid "Choose your preferred, ready to use template and customize it with the options below."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1422
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1424
+msgid "Minimal"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1431
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1433
+msgid "Classic Light"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1440
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1442
+msgid "Classic Dark"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1484
+msgid "Aquamarine"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1502
+msgid "Main Color"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1506
+msgid "Specify the color of the poll's main attributes. It includes border color, the color of the rate percentage and the background color of the vote button."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1521
+msgid "Text Color"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1525
+msgid "Specify the color of the text written inside the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1540
+msgid "Icons Color"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1544
+msgid "Specify the icon color in voting and rating types."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1559
+msgid "Background Color"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1560
+msgid "Specify the background color of the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1575
+msgid "Background Image"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1577
+msgid "Add a background image to the poll. If you add a background image, the background color will not be applied."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1601
+msgid "Background image position"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1602
+msgid "The position of background image of the polls"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1607
+msgid "Left Top"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1608
+msgid "Left Center"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1609
+msgid "Left Bottom"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1610
+msgid "Center Top"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1611
+msgid "Center Center"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1612
+msgid "Center Bottom"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1613
+msgid "Right Top"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1614
+msgid "Right Center"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1615
+msgid "Right Bottom"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1623
+msgid "Hide background image on result page"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1624
+msgid "If this option is enabled background image of poll will disappear on the result page."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1642
+msgid "Answer styles"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1644
+msgid "Highlight the background of the answers' boxes. The option works only with choosing type."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1657
+msgid "Answers Background Color"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1659
+msgid "Specify the background color of the answers' boxes."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1671
+msgid "Border side"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1675
+msgid "Choose your preferred style for the border of the answers' boxes."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1684
+msgid "All sides"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1687
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1786
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2146
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2371
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3499
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4946
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4955
+msgid "None"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1690
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2602
+msgid "Top"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1693
+msgid "Bottom"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1696
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1996
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2947
+msgid "Left"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1699
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1998
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2959
+msgid "Right"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1707
+msgid "Answer font size"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1711
+msgid "Choose your preferred size for the font of the answers. Size should be not less than 5 and not higher than 90"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1723
+msgid "Answer font size for mobile"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1727
+msgid "Choose your preferred size for the font of the answers on mobile devies. Size should be not less than 5 and not higher than 90"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1739
+msgid "Answer image height (px)"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1740
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2579
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2595
+msgid "Height of answers images."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1752
+msgid "Answer image height for mobile (px)"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1753
+msgid "Height of answers images on the mobile devices."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1765
+msgid "Answer image object fit"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1766
+msgid "Specify how an answers’ images should be resized to fit its container."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1774
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2367
+msgid "Cover"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1777
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2368
+msgid "Fill"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1780
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2369
+msgid "Contain"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1783
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2370
+msgid "Scale-down"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1794
+msgid "Answer padding (px)"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1795
+msgid "Padding of answers."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1807
+msgid "Answer gap (px)"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1808
+msgid "Gap between answers."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1820
+msgid "Answer border radius"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1821
+msgid "Specify the radius of the answers container."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1836
+msgid "Answer icon"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1837
+msgid "Choose your preferred icon for the answers."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1863
+msgid "Answer view"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1864
+msgid "Select the view of the answers: List or Grid. Select the column number if you have chosen Grid view."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1874
+msgid "List"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1877
+msgid "Grid"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1901
+msgid "Answer box shadow"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1902
+msgid "Allow answer container box shadow"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1912
+msgid "Answer shadow color"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1913
+msgid "The shadow color of answers container"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1924
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2034
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2237
+msgid "X"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1928
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2038
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2241
+msgid "Y"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1932
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2042
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2245
+msgid "Z"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1944
+msgid "Title Background Color"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1948
+msgid "Specify the background color of the title."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1964
+msgid "Title font size"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1968
+msgid "Specify the font size of the title."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1985
+msgid "Title alignment"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1989
+msgid "Specify the alignment of the title."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:1997
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2953
+msgid "Center"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2007
+msgid "Title text shadow"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2008
+msgid "Add text shadow for the poll title."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2022
+#: ../admin/partials/settings/poll-maker-settings.php:1460
+#: ../admin/partials/settings/poll-maker-settings.php:1584
+msgid "Color"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2023
+msgid "Specify text shadow color."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2057
+msgid "Icon size (px)"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2061
+msgid "Specify the size of the icons in rating and voting types of the poll in pixels. It should be 10 and more."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2076
+msgid "Width (px)"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2080
+msgid "Specify the width of the poll in pixels. If you put 0, the width will be 100%."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2095
+msgid "Min-height"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2096
+msgid "Set the poll minimum height by entering a numeric value."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2109
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2539
+msgid "Border style"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2113
+msgid "Choose your preferred style of the border."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2122
+msgid "Solid"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2125
+msgid "Dashed"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2128
+msgid "Dotted"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2131
+msgid "Double"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2134
+msgid "Groove"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2137
+msgid "Ridge"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2140
+msgid "Inset"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2143
+msgid "Outset"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2154
+msgid "Border radius"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2156
+msgid "Define the radius of the corners of the poll container. Allows adding rounded corners to it."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2171
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2529
+msgid "Border width"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2173
+msgid "Specify the width of the border. For the Coffee Fluid theme, border-width will always be 1px."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2188
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2550
+msgid "Border color"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2190
+msgid "Specify the color of the border."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2207
+msgid "Box shadow"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2209
+msgid "Add a shadow to your poll container. Moreover, you can choose the color of it."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2222
+msgid "Box shadow color"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2224
+msgid "The shadow color of Poll container"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2258
+msgid "Background Gradient"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2259
+msgid "Add a color gradient background in the poll. Moreover, you can choose Color 1, Color 2 and the direction of the gradient."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2273
+msgid "Color 1"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2279
+msgid "Color 2"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2285
+msgid "Gradient direction"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2288
+msgid "Vertical"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2289
+msgid "Horizontal"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2290
+msgid "Diagonal left to right"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2291
+msgid "Diagonal right to left"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2302
+msgid "Question font size"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2303
+msgid "Specify the font size of the questions( only for <p> tag ). It accepts only numerical values."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2312
+msgid "On PC"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2313
+msgid "Define the font size for PC devices."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2326
+msgid "On mobile"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2327
+msgid "Define the font size for mobile devices."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2341
+msgid "Question image height"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2343
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2360
+msgid "Specify the height of question image of the Poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2358
+msgid "Question object fit"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2379
+msgid "Poll max-width for mobile"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2380
+msgid "Poll container max-width for mobile in percentage. This option will work for the screens with less than 640 pixels width."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2389
+#: ../admin/partials/settings/poll-maker-settings.php:1434
+#: ../admin/partials/settings/poll-maker-settings.php:1552
+#, php-format
+msgid "For 100% leave blank"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2394
+msgid "Button Styles"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2399
+msgid "Buttons Size"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2400
+msgid "Select the size of the button(s) inside the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2407
+msgid "Small"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2408
+msgid "Medium"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2409
+msgid "Large"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2417
+msgid "Buttons font size"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2418
+msgid "Define the size of the button(s) inside the poll in pixels."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2431
+msgid "Buttons mobile font size"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2432
+msgid "Define the size of the button(s) inside the poll in pixels for mobile devices."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2445
+msgid "Buttons padding (px)"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2446
+msgid "Define the distance between the text and the border of the button in pixels․"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2453
+msgid "Left / Right"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2457
+msgid "Top / Bottom"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2466
+msgid "Buttons border radius"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2467
+msgid "Define the radius of the corners of the button. Allows adding rounded corners to the button."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2480
+msgid "Buttons width"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2481
+msgid "Set the button width in pixels. For an initial width, leave the field blank."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2488
+msgid "For an initial width, leave the field blank."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2509
+msgid "Answers Styles"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2517
+msgid "Answer border"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2518
+msgid "Allow answer border"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2530
+msgid "The width of answers border"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2540
+msgid "The style of answers border"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2551
+msgid "The color of the answers border"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2563
+msgid "Show answers caption"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2564
+msgid "Show answers caption near the answer image. This option will be work only when answer has image."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2578
+msgid "Answers image caption style"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2586
+msgid "Outside"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2594
+msgid "Answers image caption position"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2614
+msgid "Disable answers hover"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2617
+msgid "Disable the hover effect for answers."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2634
+msgid "Poll Logo"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2637
+msgid "Add logo image for poll. Advisable size for image is 50x50"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2656
+msgid "Remove"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2664
+msgid "Logo URL"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2667
+msgid "Add a URL link to the poll's logo image."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2694
+msgid "Custom class for poll container"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2695
+msgid "Use your custom HTML class for adding your custom styles to the poll container."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2852
+msgid "In this field, you can write your own CSS code. For example: p{color:red !important}"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2866
+msgid "Feature options"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2872
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1384
+msgid "Status"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2874
+msgid "Choose whether the poll is active or not. If you choose an unpublished option, the poll won’t be shown anywhere on your website. (You do not need to remove shortcodes)."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2885
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1366
+msgid "Published"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2891
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1366
+msgid "Unpublished"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2901
+msgid "Allow users to choose more than one answer. It will work with choosing type."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2917
+msgid "Show Title"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2920
+msgid "Enable to show the title as a headline inside the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2934
+msgid "Alignment"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2936
+msgid "Choose the alignment of the content of the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2980
+msgid "It allows participants to respond to your polls without ever revealing their identities, even if they are registered on your website. After enabling the option, the WP User and User IP will not be stored in the database."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2995
+msgid "Change current poll creation date"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:2998
+msgid "Choose your preferred creation date."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3017
+msgid "Change the author of the current poll"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3018
+msgid "You can change the author who created the current poll to your preferred one. You need to write the User ID here. Please note, that in case you write an ID, by which there are no users found, the changes will not be applied and the previous author will remain the same."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3031
+msgid "Show creation date"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3034
+msgid "Enable to show the creation date inside the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3048
+msgid "Show author"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3051
+msgid "Enable to show the author inside the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3065
+msgid "Schedule"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3067
+msgid "Specify the period of time when the poll will be active. Choose the start and the end date and write the pre-start and expiration messages."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3085
+msgid "Start date:"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3102
+msgid "End date:"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3121
+msgid "Show timer"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3124
+msgid "Enable to show the countdown or the end date in the poll, when it is scheduled."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3140
+msgid "Show countdown"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3146
+msgid "Show end date"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3156
+msgid "Pre start message:"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3179
+msgid "Expiration message:"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3201
+msgid "Show result button"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3204
+msgid "Enable to show the result button after the schedule."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3218
+msgid "Don't show poll"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3221
+msgid "Do not show the poll container on the front-end at all when it is expired or has not started yet."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3239
+msgid "Allow not to vote"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3243
+msgid "Allow the user to directly see the results without participating in the vote. If the option is checked, it is impossible to hide the results."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3254
+msgid "Results button text"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3258
+msgid "Write the text of the button, which shows results."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3273
+msgid "Show passed users count"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3275
+msgid "Show how many users have passed the poll. It will be shown at the bottom right corner inside the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3289
+msgid "Redirect after voting"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3291
+msgid "Enable redirection to the custom URL after the user votes the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3305
+msgid "URL"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3306
+msgid "Choose the Redirection URL for redirecting after the user takes the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3319
+msgid "Delay"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3321
+msgid "Choose the redirection delay in seconds after the user votes the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3339
+msgid "Randomize Answers"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3342
+msgid "Enable to show the answers of the poll in a random sequence."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3360
+msgid "Enable answers sound"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3361
+msgid "Enable to play a sound when the user clicks on one of the answers. To select a sound, go to the Poll answers sound option in the General Settings page."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3373
+msgid "Sound are selected. For change sounds go to"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3375
+msgid "Sound are not selected. For selecting sounds go to"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3383
+#: ../includes/lists/class-poll-maker-results-list-table.php:492
+msgid "Vote Reason"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3385
+msgid "Allow users to add their vote reason"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3398
+msgid "Enable Vote button"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3400
+msgid "Show the vote button during the vote. If this option is disabled, then the user needs to click on the answer to vote without a chance of changing it."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3411
+msgid "Vote button text"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3415
+msgid "Write the text of the vote button."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3430
+msgid "Enable View more button"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3432
+msgid "Show only part of the answers and show the rest of the answers only when the user clicks on this button. It works only with the choosing type of polls."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3445
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3956
+msgid "Count"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3446
+msgid "Indicate the number of answers which will be shown in the first place."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3461
+msgid "Answers sorting"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3464
+msgid "Select the way of arrangement of the answers on the voting page of the poll. This works only with the Choosing type."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3466
+msgid "Ascending – the sort is alphabetical from A to Z."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3467
+msgid "Descending – the sort is alphabetical from Z to A."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3468
+msgid "Most voted – by most votes"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3469
+msgid "Less voted - by less votes"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3470
+msgid "Default - upon your preferences"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3480
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4958
+msgid "Ascending"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3481
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4961
+msgid "Descending"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3482
+msgid "Most Voted"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3483
+msgid "Less Voted"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3491
+msgid "Answers numbering"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3492
+msgid "Assign numbering to each answer in ascending sequential order. Choose your preferred type from the list."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3500
+msgid "1."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3501
+msgid "1)"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3502
+msgid "A."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3503
+msgid "A)"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3504
+msgid "a."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3505
+msgid "a)"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3523
+msgid "Show votes count per answer before voting"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3525
+msgid "Display the votes count per answer to the poll participants beforehand. It will show the last result. There are two ways to represent the votes count: by count and by percentage."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3538
+msgid "By count"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3544
+msgid "By percentage"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3555
+msgid "Limitation of Users"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3561
+msgid "Maximum number of attempts per user"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3563
+msgid "This option allows to block the users who have already voted."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3578
+msgid "Detects users by"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3579
+msgid "Choose the method of detection of the user:"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3580
+msgid "By IP"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3580
+msgid " - Detect the users by their IP addresses and limit them. It will work both for guests and registered users. Note: in general, IP is not a static variable, it is constantly changing when the user changes his location/ WIFI/ Internet provider."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3581
+msgid "By User ID"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3581
+msgid " - Detect the users by their WP User IDs and limit them. It will work only for registered users. Recommended using this method to get more reliable results."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3582
+msgid "By Cookie "
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3582
+msgid " - Detect the users by their browser cookies and limit them.  It will work both for guests and registered users."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3583
+msgid "By Cookie and IP "
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3583
+msgid " - Detect the users both by their browser cookies and IP addresses and limit them. It will work both for guests and registered users."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3595
+msgid "IP"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3601
+msgid "User ID"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3607
+msgid "Cookie"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3613
+msgid "Cookie and IP"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3625
+msgid "Write the message for those who have already passed the poll under the given conditions."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3649
+msgid "Redirect URL"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3651
+msgid "Enable redirection to the custom URL for those who have already passed the poll under the given conditions."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3667
+msgid "Redirect delay (sec)"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3669
+msgid "Choose the redirection delay in seconds. If you set it to 0, the redirection will be disabled."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3684
+msgid "See results"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3686
+msgid "Display the live results of the poll to those who have already passed the poll under the given conditions. There are two ways of displaying the results:"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3687
+msgid "After clicking on the button:"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3687
+msgid "- It will show the results after clicking on the See Results button."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3688
+msgid "Directly:"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3688
+msgid " - It will show the results immediately."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3700
+msgid "After clicking on the button"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3704
+msgid "Directly"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3722
+msgid "Attempts count"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3723
+msgid "Specify the count of the attempts per user for passing the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3742
+msgid "After enabling this option, only logged-in users will be able to pass the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3757
+msgid "Write the message for unauthorized users."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3780
+msgid "Show Login form"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3781
+msgid "Enable to show the login form."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3796
+msgid "Only for selected user role"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3798
+msgid "After enabling this option, only the user roles mentioned in the list will be able to pass the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3812
+msgid "User role"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3844
+msgid "Write the message for those who aren’t included in the list."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3869
+msgid "Password for passing Poll"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3870
+msgid "Choose a password for users to pass the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3883
+msgid "Password"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3884
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3912
+msgid "Write your password."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3897
+msgid "Enable toggle password visibility"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3898
+msgid "Tick the option, and it will let you enable and disable password visibility in a password input field."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3942
+msgid "Limitation count of takers"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3943
+msgid "You can choose how many users can pass the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3957
+msgid "The number of users who can pass the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3983
+msgid "Allow to vote once per session"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3984
+msgid "If you enable this feature, you can select the frequency the users can have access to the poll after the first attempt. For example, if you give a 1-day value to the session period, the user will have access to the poll once in 1-day."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3997
+msgid "Session Period"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:3998
+msgid "Specify the time for one session."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4019
+msgid "Write the message, which will be shown during the restricted time, when the user has already passed his/her limit for the session."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4053
+msgid "Limit by country"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4054
+msgid " After enabling this option, the given poll will not be available in the selected country."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4073
+msgid "User Data Settings"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4079
+msgid "Information form title"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4081
+msgid "Write the title of the Information Form which will be shown at the top of the Form Fields."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4104
+msgid "Enable Information Form"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4107
+msgid "After enabling this option, the user will have to fill out the information form (data form for the user’s personal information) after submitting the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4118
+msgid "Allow collecting information of logged in users"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4119
+msgid "Allow collecting information from logged in users. Email and name of users will be stored in the database. Email options will be work for these users."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4129
+msgid "Form Fields"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4130
+msgid "Select which fields the user should fill out."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4151
+msgid "Required Fields"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4153
+msgid "Select which fields are required."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4182
+msgid "Display form fields with labels"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4208
+msgid "Add custom fields"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4209
+msgid "You can create custom fields with the following types: text, textarea, number, telephone, date, e-mail, URL, color, checkbox."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4216
+msgid "For creating custom fields click "
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4217
+msgid "here"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4227
+msgid "Email settings"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4235
+msgid "If the option is enabled, the admin(or your provided email) will receive an email notification about votes at each time."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4247
+msgid "Email address"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4249
+msgid "If you want to set another email, enter it here. Leave it blank for an admin email."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4273
+msgid "Send Mail to User"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4275
+msgid "Send the message to the emails of the users after the submission of the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4307
+msgid "Email configuration"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4308
+msgid "Set up the attributes of the sending email."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4317
+msgid "From email"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4320
+#, php-format
+msgid "Specify the email address from which the results will be sent. If you leave the field blank, the sending email address will take the default value — %spoll_maker@{your_site_url}%s."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4337
+msgid "From name"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4340
+#, php-format
+msgid "Specify the name that will be displayed as the sender of the results. If you don't enter any name, it will be %sPoll Maker%s."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4357
+msgid "Subject"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4358
+msgid "Fill in the subject field of the message. If you don't, it will take the poll title."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4371
+msgid "Reply to email"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4372
+msgid "Specify to which email the poll taker can reply. If you leave the field blank, the email address won't be specified."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4385
+msgid "Reply to name"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4386
+msgid "Specify the name of the email address to which the poll taker can reply. If you leave the field blank, the name won't be specified."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4402
+msgid "Integrations settings"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4408
+msgid "MailChimp Settings"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4419
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4482
+msgid "For enabling this option, please go to "
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4419
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4482
+msgid "page and fill all options."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4420
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4483
+msgid "this"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4431
+msgid "Enable MailChimp"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4451
+msgid "MailChimp list"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4496
+msgid "Campaign Monitor Settings"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4511
+msgid "Enable Campaign Monitor"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4522
+msgid "Campaign Monitor list"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4527
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4610
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4625
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4737
+msgid "Select List"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4538
+msgid "Zapier Integration Settings"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4553
+msgid "Enable Zapier Integration"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4563
+msgid "Send test data"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4566
+msgid "We will send you a test data, and you can catch it in your ZAP for configure it."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4578
+msgid "Active Campaign Settings"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4593
+msgid "Enable ActiveCampaign"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4604
+msgid "ActiveCampaign list"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4611
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4626
+msgid "Just create contact"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4619
+msgid "ActiveCampaign automation"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4637
+msgid "Slack Settings"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4652
+msgid "Enable Slack integration"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4663
+msgid "Slack conversation"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4669
+msgid "Select Channel"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4680
+msgid "Google Sheet Settings"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4695
+msgid "Enable Google integration"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4710
+#: ../admin/partials/settings/poll-maker-settings.php:917
+msgid "Mad Mimi"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4726
+msgid "Enable Mad Mimi"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4757
+msgid "GetResponse Settings"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4772
+msgid "Enable GetResponse"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4784
+msgid "GetResponse List"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4804
+msgid "ConvertKit Settings"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4819
+msgid "Enable ConvertKit"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4830
+msgid "ConvertKit list"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4852
+msgid "Show answer percent"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4855
+msgid "Enable to show the percentage of each question on the progressbar on the result page of the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4869
+msgid "Hide results"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4873
+msgid "Disable to show voting results to the users on the result page of the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4887
+msgid "Message instead of results"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4891
+msgid "Message that will appear instead of the votting results after the poll"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4913
+#: ../admin/partials/settings/poll-maker-settings.php:1777
+#: ../admin/partials/settings/poll-maker-settings.php:1784
+msgid "Result Message"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4914
+msgid "Write the message, which will be shown on the result page of the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4940
+msgid "Results sorting"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4942
+msgid "Select the way of arrangement of the results on the result page of the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4944
+msgid "Ascending – the smallest to largest"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4945
+msgid "Descending – the largest to smallest"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4970
+msgid "Show votes count"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4973
+msgid "Enable to show the total number of votes of each answer on the result page of the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4990
+msgid "Loading effect"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:4993
+msgid "Choose the loading effect of the displaying poll results."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5001
+msgid "Loading GIF"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5004
+msgid "Opacity"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5007
+msgid "Blur"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5014
+msgid "Custom GIF"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5196
+msgid "It is PRO feature"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5253
+msgid "Loading effect size"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5255
+msgid "Define the size of the loading effect.It will get the default value if you leave it blank."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5271
+msgid "Enable restart button"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5273
+msgid "Show the restart button on the result page of the poll for restarting the poll and taking it again."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5288
+msgid "Social share buttons"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5292
+msgid "Enable to show social media share buttons on the result page of the poll. (Facebook, Twitter, Linkedin, VKontakte)"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5304
+msgid "Heading for share buttons"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5305
+msgid "Text that will be displayed over share buttons."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5324
+msgid "Linkedin button"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5325
+msgid "Display LinkedIn social button so that the users can share the page on which your poll is posted."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5339
+msgid "Facebook button"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5340
+msgid "Display Facebook social button so that the users can share the page on which your poll is posted."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5354
+msgid "Twitter button"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5355
+msgid "Display Twitter social button so that the users can share the page on which your poll is posted."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5369
+msgid "VKontakte button"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5370
+msgid "Display VKontakte social button so that the users can share the page on which your poll is posted."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5385
+msgid "Results bar in RGBA"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5388
+msgid "If the option is enabled, the opacity of the result bar color will depend on the number of votes."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5402
+msgid "Show passed users avatars"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5405
+msgid "If this option is enabled, you will see users' avatars(profile pictures) who have already voted on the result page."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5418
+#: ../admin/partials/settings/poll-maker-settings.php:1407
+#: ../admin/partials/settings/poll-maker-settings.php:1525
+msgid "Users count"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5421
+msgid "Indicate the count of users' avatars to be shown."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5440
+msgid "Answer Redirect Delay"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5442
+msgid "Choose the redirection delay in seconds after the user votes the poll. The option works if you have enabled the redirection of each answer individually from the General tab."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5462
+msgid "Show answers image"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5464
+msgid "Tick this option to see the answers images after voting. Note it works only with the choosing type and you should have at least one answer with an image to use it."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5486
+#: ../admin/partials/settings/poll-maker-settings.php:1128
+msgid "Show results by"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5488
+msgid "Select the way of displaying the results on the result page of the poll."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5498
+msgid "Bar chart"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5504
+#: ../admin/partials/settings/poll-maker-settings.php:1144
+msgid "Pie Chart"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5510
+#: ../admin/partials/settings/poll-maker-settings.php:1150
+msgid "Column Chart"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5516
+msgid "Versus Chart"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5522
+msgid "Rating Chart"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5545
+msgid "Result message based on the answer"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5550
+msgid "Show Answer message"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5553
+msgid "Show different messages based on the answer."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5570
+msgid "RRefresh the below answers table after adding or removing answer(s) in the General tab."
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5588
+msgid "Answer 1"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5610
+msgid "Answer 2"
+msgstr ""
+
+#: ../admin/partials/poll-maker-ays-polls-actions.php:5672
+msgid "Saves the assigned settings of the current poll as default. After clicking on this button, each time creating a new poll, the system will take the settings and styles of the current poll. If you want to change and renew it, please click on this button on another poll."
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:40
+msgid "There are no responses yet."
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:51
+msgid "There are no selected polls."
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:54
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1210
+msgid "There are no polls yet."
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:68
+#: ../admin/partials/results/poll-maker-ays-results-display.php:184
+msgid "This property available only in PRO version"
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:68
+msgid "Export"
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:71
+msgid "Answer Chart"
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:72
+msgid "Statistics"
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:73
+msgid "Global Leaderboard"
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:74
+msgid "All Results"
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:85
+#: ../admin/partials/results/poll-maker-ays-results-display.php:149
+#: ../pb_templates/poll_maker_elementor.php:68 ../poll/poll-maker-block.js:175
+msgid "Select Poll"
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:92
+#: ../admin/partials/results/poll-maker-ays-results-display.php:107
+#: ../admin/partials/results/poll-maker-ays-results-display.php:124
+msgid "Filter"
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:95
+#: ../includes/lists/class-poll-maker-polls-list-table.php:95
+msgid "Select Category"
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:109
+msgid "Select User"
+msgstr ""
+
+#: ../admin/partials/results/poll-maker-ays-results-display.php:204
+msgid "Attempts"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings-actions.php:258
+msgid "Changes saved."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings-actions.php:260
+msgid "Poll attribute ."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings-actions.php:262
+msgid "Poll attribute deleted."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:125
+#: ../admin/partials/settings/poll-maker-settings.php:1039
+msgid "Shortcodes"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:129
+#: ../admin/partials/settings/poll-maker-settings.php:1710
+msgid "Fields placeholders"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:133
+#: ../admin/partials/settings/poll-maker-settings.php:1774
+msgid "Message variables"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:145
+msgid "Default parameters for Poll"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:150
+msgid "Disable IP Storing"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:153
+msgid "After enabling this option, the IP address of the users will not be stored in the database.  Note: If this option is enabled, then the Limitation options connected with IP will not work."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:169
+msgid "Answer Default Count"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:172
+msgid "Define the default count for the answers which will be displayed in the Add new poll page. (This will work only with choosing type.)"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:190
+msgid "Polls default category"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:193
+msgid "Choose the category of the poll which will be selected by default each time you create a poll by the Add New button."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:217
+msgid "Polls default type"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:220
+msgid "Choose the type of the poll which will be selected by default each time you create a poll by the Add New button."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:246
+msgid "Poll answers sound"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:251
+msgid "Sound for answers"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:252
+msgid "The selected sound will be played in the poll if the Enable answers sound option is enabled from the particular poll settings."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:259
+msgid "Select sound"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:270
+msgid "Excerpt words count in list tables"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:275
+msgid "Polls list table"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:276
+msgid "Determine the length of the polls to be shown in the Polls List Table by putting your preferred count of words in the following field. For example: if you put 10,  you will see the first 10 words of each poll in the Polls page of your dashboard."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:288
+msgid "Categories list table"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:289
+msgid "Determine the length of the category to be shown in the Category List Table by putting your preferred count of words in the following field. For example: if you put 10,  you will see the first 10 words of each poll in the Polls page of your dashboard."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:301
+msgid "Results list table"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:302
+msgid "Determine the length of the results to be shown in the Results List Table by putting your preferred count of words in the following field. For example: if you put 10,  you will see the first 10 words of each poll in the Polls page of your dashboard."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:316
+msgid "Erase Poll data"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:320
+msgid "Results up to a "
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:327
+msgid "Delete results older then 'X' the month"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:328
+msgid "Specify count of months and save changes. Attention! it will remove submissions older than specified months permanently."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:345
+msgid "Animation Top"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:350
+msgid "Enable animation"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:351
+msgid "Enable animation of the scroll offset of the poll container. It works when the poll container is visible on the screen partly and the user starts the poll and moves from one question to another."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:363
+msgid "Scroll offset(px)"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:364
+msgid "Define the scroll offset of the poll container after the animation starts. It works when the poll container is visible on the screen partly and the user starts the poll and moves from one question to another."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:378
+msgid "General CSS File"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:383
+msgid "Exclude general CSS file from home page"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:384
+msgid "If the option is enabled, then the poll general CSS file will not be applied to the home page. Please note, that if you have inserted the poll on the home page, then the option must be disabled so that the CSS File can normally work for that poll."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:398
+msgid "Who will have permission to Poll menu"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:412
+msgid "Select user role"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:413
+msgid "Control and manage who can have access to the plugin from the dashboard."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:424
+msgid "Ability to manage Poll Maker plugin only for selected user roles."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:433
+msgid "Auto approve user's request"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:447
+msgid "Enable auto-approve"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:448
+msgid "If the option is enabled, the user requests from the Request Form shortcode will automatically be approved and added to the Polls page."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:469
+msgid "MailChimp"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:476
+msgid "MailChimp Username"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:492
+msgid "MailChimp API Key"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:505
+msgid "You can get your API key from your "
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:505
+msgid "Account Extras menu"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:514
+msgid "Campaign Monitor"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:531
+msgid "Client ID"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:547
+#: ../admin/partials/settings/poll-maker-settings.php:945
+#: ../admin/partials/settings/poll-maker-settings.php:1019
+msgid "API Key"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:560
+msgid "You can get your API key and Client ID from your Account Settings page"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:571
+msgid "Zapier"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:588
+msgid "Zapier Webhook URL"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:601
+#, php-format
+msgid "If you do not have any ZAP created, go <a href='%s' target='_blank'>%s</a>. Remember to choose Webhooks by Zapier as Trigger App."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:604
+msgid "We will send you all data from poll information form with \"AysPoll\" key by POST method"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:615
+msgid "ActiveCampaign"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:632
+msgid "API Access URL"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:648
+msgid "API Access Key"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:661
+msgid "Your API URL and Key can be found in your account on the My Settings page under the \"Developer\" tab"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:672
+msgid "Slack"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:690
+msgid "Slack Integration Setup Instructions"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:690
+msgid "Instructions"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:697
+msgid "App Client ID"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:713
+msgid "Slack Authorization"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:719
+msgid "Authorized"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:726
+msgid "App Client Secret"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:741
+msgid "App Access Token"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:746
+msgid "Need Authorization"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:752
+msgid "You can get your App Client ID and Client Secret from your App's the Basic Information page"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:763
+msgid "Google sheets"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:798
+msgid "Google Client ID"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:809
+msgid "Google Sign in"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:814
+msgid "Sign in"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:822
+msgid "Google Client Secret"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:833
+#: ../admin/partials/settings/poll-maker-settings.php:839
+msgid "Get token"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:852
+msgid "SendGrid"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:869
+msgid "SendGrid API Key"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:878
+msgid "You can get your API key from "
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:889
+msgid "GamiPress"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:904
+msgid "Install the GamiPress plugin to use the integration. Configure the settings from the Automatic Points Awards section from the GamiPres plugin."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:906
+msgid "After enabling the integration, the Poll Maker will automatically be added to the event list."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:934
+msgid "Username"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:961
+msgid "GetResponse"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:978
+msgid "GetResponse API Key"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:988
+#, php-format
+msgid "You can get your API key from your <a href='%s' target='_blank'>account</a>."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:991
+msgid "For security reasons, unused API keys expire after 90 days. When that happens, you’ll need to generate a new key."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1002
+msgid "ConvertKit"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1029
+msgid "You can get your API Key from your "
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1044
+msgid "Shortcode for all polls"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1049
+msgid "Shortcode for all polls "
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1061
+msgid "The notification message will be appeared when all polls of the given category expires or becomes unpublished."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1074
+msgid "Paste the shortcode into any of your posts to show all polls together."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1079
+#, php-format
+msgid "%sDisplay%s"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1079
+msgid "Choose the method of displaying. Example: display=\"published\"."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1088
+#, php-format
+msgid "%spublished%s"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1088
+msgid "If you set the method as published, it will show only published polls excluding expired polls."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1097
+#, php-format
+msgid "%sall%s"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1097
+msgid "If you set the method as all, it will show all polls including expired polls."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1112
+msgid "Shortcode result by ID"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1117
+msgid "Shortcode result by ID "
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1129
+msgid "Select the way of displaying the results: Bar chart , Pie chart or Column Chart."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1138
+msgid "Bar Chart"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1158
+msgid "Paste the shortcode into any of your posts to show only the result page of the particular poll."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1165
+msgid "Recent Polls Settings"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1170
+#: ../admin/partials/settings/poll-maker-settings.php:1510
+#: ../admin/partials/settings/poll-maker-settings.php:1634
+#: ../admin/partials/settings/poll-maker-settings.php:1668
+#: ../includes/lists/class-poll-maker-categories-list-table.php:291
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1379
+msgid "Shortcode"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1181
+msgid "Copy the following shortcode, configure it based on your preferences and paste it into the post."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1187
+#, php-format
+msgid "%sRandom%s"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1187
+msgid "If you set the ordering method as random and gave a value to count option, then it will randomly display that given amount of polls from your created polls."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1196
+#, php-format
+msgid "%sRecent%s"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1196
+msgid "If you set the ordering method as recent and gave a value to count option, then it will display that given amount of polls from your recently created polls."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1210
+msgid "Extra shortcodes"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1217
+msgid "Passed users count"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1218
+msgid "Copy the following shortcode and paste it in posts. Insert the Poll ID to receive the number of participants of the poll."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1235
+msgid "Show User First Name"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1236
+msgid "Shows the logged-in user's First Name. If the user is not logged-in, the shortcode will be empty."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1253
+msgid "Show User Last Name"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1254
+msgid "Shows the logged-in user's Last Name. If the user is not logged-in, the shortcode will be empty."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1271
+msgid "Show User Display name"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1272
+msgid "Shows the logged-in user's Display name. If the user is not logged-in, the shortcode will be empty."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1289
+msgid "Show User Email"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1290
+msgid "Shows the logged-in user's Email. If the user is not logged-in, the shortcode will be empty."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1307
+msgid "Show poll creation date"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1308
+msgid "You need to insert Your Poll ID in the shortcode. It will show the creation date of the particular poll. If there is no poll available/found with that particular Poll ID, the shortcode will be empty."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1325
+msgid "Passed polls count per user"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1326
+msgid "Shows the number of passed polls of the current user. For instance, the current user has passed 20 polls. If the user is not logged in shortcode will be empty."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1342
+msgid "Poll Categories"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1354
+msgid "Paste the shortcode into any of your posts to show all/random polls from the given category by list/grid view."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1360
+msgid "Poll category shortcode"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1361
+msgid "Copy the following shortcode, configure it based on your preferences and paste it into the post. Put the shortcode of your preferred category,  choose the method of displaying (all/random), and the design of the layout(list/grid). If you set the method as All, it will show all polls from the given category, if you set the method as Random, please give a value to count option too, and it will randomly display that given amount of polls from the given category."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1376
+msgid "Global Leaderboard Settings"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1388
+msgid "Paste the shortcode into any of your posts to show the list of the top users who have passed your polls."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1394
+msgid "Global Leaderboard shortcode"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1395
+msgid "You can copy the shortcode and paste it to any post/page to see the list of the top user’s who passed any poll."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1408
+msgid "How many users’ results will be shown in the leaderboard."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1424
+#, php-format
+msgid "The width of the Leaderboard box. It accepts only numeric values. For 100% leave it blank."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1440
+msgid "Users group by"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1441
+msgid "Select the way for grouping the results. If you want to make Leaderboard for logged in users, then choose ID. It will collect results by WP user ID. If you want to make Leaderboard for guests, then you need to choose Email and enable Information Form and Email, Name options from poll settings. It will group results by emails and display guests Names."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1449
+#: ../admin/partials/settings/poll-maker-settings.php:1571
+#: ../includes/lists/class-poll-maker-categories-list-table.php:293
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1385
+msgid "ID"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1461
+msgid "Top color of the leaderboard"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1474
+msgid "Field for entering your own CSS code"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1489
+msgid "Global Leaderboard By Category Settings"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1511
+#: ../admin/partials/settings/poll-maker-settings.php:1612
+msgid "Paste the shortcode into any of your posts or pages to show the list of the top users who have voted your polls. It will print the attempts count of each poll participant, as well."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1526
+msgid "Specify how many users’ results to be shown on the leaderboard."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1543
+msgid "Set the width of the leaderboard's box. It accepts only numeric values. For 100%, leave the field blank."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1560
+msgid "Group users by"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1561
+msgid ""
+"Select the way for grouping the results.\n"
+"                                        By ID - Choose by ID if you want to make a leaderboard for logged-in users. It will collect results by WordPress user ID.\n"
+"                                        By  Email - Choose by email if you want to make the leaderboard for guests. In this case,  do not forget to activate the Information Form of the given polls."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1585
+msgid "Choose the color of the leaderboard's box."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1600
+msgid "Enter your own custom CSS code."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1620
+msgid "Request Form"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1635
+msgid "Copy the following shortcode and paste it into your desired post. It will allow users to send a request for building a poll with simple settings (Poll title, question, answers). Find the list of the requests in the Requests page, which is located on the Poll Maker left navbar. For accepting the request, the admin needs to click on the Approve button next to the given poll."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1646
+msgid "Ability to allow users to create a poll from the front-end."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1654
+msgid "User History Settings"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1669
+msgid "Paste the shortcode into any of your posts or pages to show the current user’s votes history. Each user will see individually presented content based on their taken polls."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1682
+msgid "User history results table columns"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1683
+msgid "You can sort table columns and select which columns must display on the front-end."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1711
+msgid "If you make a change here, these words will not be translated either․"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1717
+msgid "With the help of this section, you can change the fields' placeholders of the Information form. Find the available fields in the User data tab of your polls."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1718
+msgid "Note: If you make a change here, these words will not be translated either."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1726
+msgid "Placeholders"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1729
+msgid "Labels"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1775
+#: ../admin/partials/settings/poll-maker-settings.php:1783
+msgid "You can copy these variables and paste them in the following options from the poll settings"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1795
+msgid "The title of the poll"
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1804
+msgid "The user's first name that was filled in their WordPress site during registration."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1813
+msgid "The user's last name that was filled in their WordPress site during registration."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1822
+msgid "The creation date of the poll."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1831
+msgid "It will show the author of the current poll."
+msgstr ""
+
+#: ../admin/partials/settings/poll-maker-settings.php:1845
+msgid "Save changes"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-categories-list-table.php:13
+msgid "Category"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-categories-list-table.php:187
+msgid "There are no poll categories yet."
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-categories-list-table.php:251
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1272
+msgid "Edit"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-categories-list-table.php:397
+msgid "Poll category created."
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-categories-list-table.php:399
+msgid "Poll category saved."
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-categories-list-table.php:401
+msgid "Poll category deleted."
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1273
+msgid "Duplicate"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1274
+msgid "View Results"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1380
+msgid "Code Include"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1382
+msgid "Created"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1383
+msgid "Completed count"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1626
+msgid "Poll created."
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1628
+msgid "Poll saved."
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1630
+msgid "Poll duplicated."
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1633
+msgid "Poll deleted."
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-polls-list-table.php:1635
+msgid " Polls are deleted."
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:13
+msgid "Result"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:262
+#: ../public/partials/class-poll-maker-extra-shortcode.php:104
+#: ../public/partials/class-poll-maker-extra-shortcode.php:111
+#: ../public/partials/class-poll-maker-extra-shortcode.php:231
+msgid "There are no results yet."
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:287
+#: ../includes/lists/class-poll-maker-results-list-table.php:289
+msgid "Guest"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:485
+msgid "User IP"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:486
+msgid "WP User"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:487
+msgid "User Name"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:488
+msgid "User Email"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:489
+msgid "User Phone"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:491
+msgid "Vote Datetime"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:493
+msgid "Read Status"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:494
+msgid "Poll ID"
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:608
+msgid "Result deleted."
+msgstr ""
+
+#: ../includes/lists/class-poll-maker-results-list-table.php:661
+msgid "Guests"
+msgstr ""
+
+#: ../pb_templates/poll_maker_elementor.php:17 ../poll/poll-maker-block.js:114
+msgid "Poll Maker"
+msgstr ""
+
+#: ../pb_templates/poll_maker_elementor.php:45
+msgid "Poll Title"
+msgstr ""
+
+#: ../pb_templates/poll_maker_elementor.php:48
+#: ../pb_templates/poll_maker_elementor.php:49
+msgid "Enter the poll title"
+msgstr ""
+
+#: ../pb_templates/poll_maker_elementor.php:55
+msgid "Title Alignment"
+msgstr ""
+
+#: ../poll/poll-maker-block.js:41 ../poll/poll-maker-block.js:140
+msgid "Something went wrong please reload page"
+msgstr ""
+
+#: ../poll/poll-maker-block.js:48 ../poll/poll-maker-block.js:145
+msgid "Loading..."
+msgstr ""
+
+#: ../poll/poll-maker-block.js:55 ../poll/poll-maker-block.js:152
+msgid "There are no polls yet"
+msgstr ""
+
+#: ../poll/poll-maker-block.js:59 ../poll/poll-maker-block.js:162
+msgid "-Select Poll-"
+msgstr ""
+
+#: ../poll/poll-maker-block.php:76
+msgid "Please select poll"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:191
+msgid "day"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:192
+msgid "days"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:193
+msgid "hour"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:194
+msgid "hours"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:195
+msgid "minute"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:196
+msgid "minutes"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:197
+msgid "second"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:198
+msgid "seconds"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:199
+msgid "Your answer has been successfully sent to the admin. Please wait for the approval."
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:680
+msgid "Thanks for your answer"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:697
+#: ../public/class-poll-maker-ays-public.php:704
+msgid "You will be redirected "
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:932
+msgid "Please add vote reason"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:1042
+msgid " left"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:1086
+msgid "Please enter password"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:1110
+msgid "Submit"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:1738
+msgid "This Poll active until "
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:1748
+msgid "This Poll will start "
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:1758
+msgid "Created on"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:1781
+msgid "By"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:1783
+msgid "Created by"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:1811
+msgid "Unknown"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:1907
+msgid "You must sign in for voting."
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:1923
+msgid "You not have permissions for voting."
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:2143
+msgid "Other - please specify"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:2150
+msgid "Note if the other answer is filled, it will be considered as a vote and will ignore the checked answers."
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:2227
+msgid "View more"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:2242
+msgid "Send"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:2278
+msgid "You have already voted."
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:2281
+msgid "Redirecting after"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:2353
+msgid "The poll will be available soon."
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:2357
+msgid "The poll has expired."
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:2434
+msgid "Next"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:2443
+msgid "Previous"
+msgstr ""
+
+#: ../public/class-poll-maker-ays-public.php:2940
+#, php-format
+msgid "Someone answer %s in your %s poll on %s."
+msgstr ""
+
+#: ../public/partials/class-poll-maker-extra-shortcode.php:82
+#: ../public/partials/class-poll-maker-extra-shortcode.php:211
+msgid "Wrong shortcode initialized"
+msgstr ""
